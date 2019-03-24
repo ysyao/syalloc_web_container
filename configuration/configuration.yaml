@@ -1,0 +1,8 @@
+server:
+  port: 8083
+  index: "web/index.html"
+  pag_404: "web/404.html"
+  applications:
+    -
+      appName: "syalloc_app"
+      jdbc: ""
